@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **MERN, Python Web Developement, Prompt Engg., ML and NLP**
 
-- 📫 How to reach me **shirish4122@gmail.com**
+- 📫 How to reach me **shirish4122aul@gmail.com**
 
-- ⚡ Fun fact **I am funny😎😅**
+- Looking for Internships...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
