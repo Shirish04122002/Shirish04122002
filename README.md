@@ -1,4 +1,4 @@
-<img align="center" src="Black and  White Gradient Personal LinkedIn Banner.png">
+<img align="center" src="Black and  White Gradient Personal LinkedIn Banner1.png">
 <h1 align="center">Hi 👋, I'm Shirish Aul</h1>
 <h3 align="center">A passionate AI Developer from India</h3>
 
